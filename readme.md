@@ -110,4 +110,4 @@ This project explores highway driving using **Tabular Q-Learning** and **Deep Q-
 
 ---
 
-> 📌 This assignment demonstrates how tuning hyperparameters and updating strategies significantly influence learning in reinforcement learning agents. Both Q-Learning and DQN showed strengths in different areas. Combining best practices from both yielded improved and stable driving behaviors.
+> 📌 This project demonstrates how tuning hyperparameters and updating strategies significantly influence learning in reinforcement learning agents. Both Q-Learning and DQN showed strengths in different areas. Combining best practices from both yielded improved and stable driving behaviors.
