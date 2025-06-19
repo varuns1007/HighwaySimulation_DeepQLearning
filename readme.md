@@ -1,4 +1,4 @@
-## 📄 Report Summary: Tabular Q-Learning & Deep Q-Learning (Assignment 2 - COL778)
+## 📄 Tabular Q-Learning & Deep Q-Learning
 
 This project explores highway driving using **Tabular Q-Learning** and **Deep Q-Learning (DQN)** in both discrete and continuous state environments. The goal is to learn safe and efficient driving policies through reinforcement learning techniques.
 
