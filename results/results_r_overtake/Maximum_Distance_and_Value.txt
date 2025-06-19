@@ -1,0 +1,3 @@
+Averaged over 100 trajectories
+Maximum Distance :- 264.6299999999995
+Values of start state :- 0.4742014885989074

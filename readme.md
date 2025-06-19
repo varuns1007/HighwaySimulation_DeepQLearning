@@ -111,3 +111,9 @@ This project explores highway driving using **Tabular Q-Learning** and **Deep Q-
 ---
 
 > 📌 This project demonstrates how tuning hyperparameters and updating strategies significantly influence learning in reinforcement learning agents. Both Q-Learning and DQN showed strengths in different areas. Combining best practices from both yielded improved and stable driving behaviors.
+
+##Commands:
+
+python tabular_q.py --iterations 50000 --output_folder <path to output folder>
+
+python dqn.py --iterations 50000 --output_folder <path to output folder>
